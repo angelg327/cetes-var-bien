@@ -1,0 +1,11 @@
+# salidas generadas
+Resultado1.csv
+Resultado2.csv
+# datos de insumo (no subir el histórico si es sensible)
+Insumos/
+*.xls
+*.xlsx
+# python
+__pycache__/
+*.pyc
+.venv/
